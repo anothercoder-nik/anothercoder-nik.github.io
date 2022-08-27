@@ -3,10 +3,10 @@ My website portfolio
 
 ## Screenshots:
 ### Computer View
-![alt text](https://github.com/alisolanki/Portfolio/blob/master/Portfolio.PNG)
+![alt text](https://github.com/anothercoder-nik/webiste/blob/main/ss.png)
 
 ### Mobile View
-![alt text](https://github.com/alisolanki/Portfolio/blob/master/Portfolio_mobile.PNG)
+![alt text](https://github.com/anothercoder-nik/webiste/blob/main/ss2.png)
 
 ## Author
-* Mohd. Ali Solanki (https://youtube.com/AliSolanki)
+* Nikunj Agarwal ("HELLO TO MY WORLD")
